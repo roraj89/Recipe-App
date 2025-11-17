@@ -1,0 +1,1 @@
+{"name":"recipe-app","private":true,"workspaces":["client","server"],"scripts":{"start:server":"npm start --prefix server","start:client":"npm start --prefix client"}}
